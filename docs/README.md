@@ -3,13 +3,14 @@ home: true
 actionText: Розпочати →
 actionLink: /intro/
 
-footer: "ECL 2.0 Licensed | Copyright © [YYYY] [Your Name]"
+footer: "ECL 2.0 Licensed | Copyright © [2023] [Реу Дар'я]"
 ---
 
 
-**Виконав(-ла):** 
+**Виконала:** 
 
-*студент(-ка) 2-го курсу, групи (шифр групи)*<span padding-right:5em></span> **[ім’я ПРІЗВИЩЕ] [Посилання email, tg, fb]**
+*студентка 2-го курсу, групи ІО-з11*
+<span padding-right:5em>Реу Дар'я </span> -- Е-пошта: <a href="dominica.diem@gmail.com" target="_blank"> dominica.diem@gmail.com</a>, Телеграм: <a href="https://t.me/doradoremi" target="_blank"> @doradoremi </a> </br>
 
 
 **Керівник**
