@@ -14,7 +14,7 @@
 
 ### Основні визначення та скорочення
 
-Див. <a href="/requirements/state-of-the-art.html">Аналіз предметної області</a>.
+Див. ["Аналіз предметної області"](/requirements/state-of-the-art.html).
 
 ## Короткий зміст
 
